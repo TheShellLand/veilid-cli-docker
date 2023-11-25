@@ -17,6 +17,7 @@ veilid-cli in docker
 ```
 
 ```shell
+/bin/bash veilid-cli
 ```
 
 ## Arguments
