@@ -1,5 +1,7 @@
 # veilid-cli-docker
 
+[![CI/CD](https://github.com/TheShellLand/veilid-cli-docker/actions/workflows/ci.yml/badge.svg)](https://github.com/TheShellLand/veilid-cli-docker/actions/workflows/ci.yml)
+
 veilid-cli in docker
 
 <img width="939" alt="image" src="https://github.com/TheShellLand/veilid-cli-docker/assets/58240560/59acc681-b633-4cf3-a837-525aa07eeec5">
