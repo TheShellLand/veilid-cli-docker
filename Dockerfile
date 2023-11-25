@@ -6,7 +6,7 @@ RUN apt update && \
     apt install -y curl git build-essential vim
 RUN git clone https://gitlab.com/veilid/veilid
 RUN cd /veilid/veilid-cli \
-    cargo install --path .
+    && /root/.cargo/bin/cargo install --path .
 
 COPY entry.sh /
 
