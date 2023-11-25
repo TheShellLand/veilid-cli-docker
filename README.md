@@ -1,8 +1,7 @@
-# veilid-cli-docker
+# veilid-cli in docker
 
 <img width="939" alt="image" src="https://github.com/TheShellLand/veilid-cli-docker/assets/58240560/59acc681-b633-4cf3-a837-525aa07eeec5">
 
-veilid-cli in docker
 
 ## Install and run on docker
 
